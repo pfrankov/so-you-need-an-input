@@ -30,6 +30,7 @@
       
 <input type="text" />
 ```
+<img width="143" alt="login" src="https://user-images.githubusercontent.com/584632/37020922-acfbb112-212e-11e8-8358-897063c28916.png">
 _Информация для программистов на HTML:_ Понятное дело, `type` инпутов нужно подбирать по смыслу: если нужен *email* — потрудитесь проставить именно этот тип.
 
 ### Пароль
@@ -42,6 +43,7 @@ _Информация для программистов на HTML:_ Понятн
       
 <input type="password" />
 ```
+<img width="138" alt="password" src="https://user-images.githubusercontent.com/584632/37020924-ad171f06-212e-11e8-998b-4f6eaed0029f.png">
 
 ### Пол
 ```
@@ -55,6 +57,8 @@ _Информация для программистов на HTML:_ Понятн
       
 <input type="radio" />
 ```
+<img width="215" alt="sex" src="https://user-images.githubusercontent.com/584632/37020925-ad364fca-212e-11e8-80c5-180a46afca8e.png">
+
 
 ## Правильные ответы на правильные вопросы
 #### А когда использовать слайдер?
