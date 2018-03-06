@@ -98,4 +98,4 @@ Chips. Типа теги такие.
 ## Контрибуция
 Фил фри ту фок!
 
-Нашли ошибку, но лень сделать PR? Есть предложения по схеме, но нет [MindNode](https://itunes.apple.com/app/mindnode-5/id1289197285)? [Заведи ищю](https://github.com/pfrankov/so-you-need-an-input/issues) и иди пить кофе; специально обученный разработчик сделает всё за тебя.
+Нашли ошибку, но лень сделать PR? Есть предложения по схеме, но нет [MindNode](https://itunes.apple.com/app/mindnode-5/id1289197285)? [Заведи ищю](https://github.com/pfrankov/so-you-need-an-input/issues/new) и иди пить кофе; специально обученный разработчик сделает всё за тебя.
