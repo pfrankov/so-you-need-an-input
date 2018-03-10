@@ -21,64 +21,21 @@
 Теперь, когда вы потеряли бдительность, самое время разобрать несколько вариантов типичных полей:
 
 ### Имя пользователя
-```
-→ Любой текст
-	→ Текста может быть больше,
-	  чем 80 символов?
-		→ Нет
-			→ Текст
-      
-<input type="text" />
-```
+<img width="263" src="https://user-images.githubusercontent.com/584632/37239874-738c34a6-2453-11e8-98ce-865d450219c9.png"/>  
 <img width="143" alt="login" src="https://user-images.githubusercontent.com/584632/37020922-acfbb112-212e-11e8-8358-897063c28916.png">
 
 _Информация для программистов на HTML:_ Понятное дело, `type` инпутов нужно подбирать по смыслу: если нужен *email* — потрудитесь проставить именно этот тип.
 
 ### Пароль
-```
-→ Любой текст
-	→ Текста может быть больше,
-	  чем 80 символов?
-		→ Нет
-			→ Текст
-      
-<input type="password" />
-```
+<img width="263" src="https://user-images.githubusercontent.com/584632/37239874-738c34a6-2453-11e8-98ce-865d450219c9.png"/>  
 <img width="138" alt="password" src="https://user-images.githubusercontent.com/584632/37020924-ad171f06-212e-11e8-998b-4f6eaed0029f.png">
 
 ### Пол
-```
-→ Выбор из фиксированных значений
-	→ Множественный выбор
-	  или возможность
-	  отмены?
-		→ Нет
-			→ < 5 вариантов
-				→ Радио-кнопка
-      
-<input type="radio" />
-```
+<img width="263" src="https://user-images.githubusercontent.com/584632/37239877-747961d6-2453-11e8-84c0-6a0b56998213.png"/>  
 <img width="215" alt="sex" src="https://user-images.githubusercontent.com/584632/37020925-ad364fca-212e-11e8-80c5-180a46afca8e.png">
 
 ### Дата рождения
-```
-→ Время
-	→ Диапазон?
-		→ Нет
-			→ Дата
-				→ Важен ли день недели?
-					→ Нет
-						→ День
-							→ Текст
-						→ Месяц
-							→ Как записан месяц
-							  в источнике?
-								→ Название
-								  месяца
-									→ Селект
-						→ Год
-							→ Текст
-```
+<img width="527" src="https://user-images.githubusercontent.com/584632/37239872-70eecdf8-2453-11e8-9f45-63ff074d791d.png"/>  
 <img width="168" alt="birth" src="https://user-images.githubusercontent.com/584632/37021756-ba0c0d04-2131-11e8-9241-9d4974893c11.png">
 
 ## Правильные ответы на правильные вопросы
